@@ -1,0 +1,20 @@
+================================================================================
+CLINICAL TRIAL DATA QUALITY & OPERATIONAL RISK INTELLIGENCE REPORT
+================================================================================
+Generated: 2025-12-31 08:53:04.624316
+System: Automated Clinical Data Quality & Operational Risk Intelligence
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Studies Analyzed: 171
+High Risk Studies: 171
+Medium Risk Studies: 0
+Low Risk Studies: 0
+Average DQI Across All Studies: 93.93 / 100
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+⚠ 171 study(ies) require immediate attention due to critical data quality issues.
+
+TOP OPERATIONAL RISK DRIVERS (ACROSS ALL STUDIES)
+--------------------------------------------------------------------------------

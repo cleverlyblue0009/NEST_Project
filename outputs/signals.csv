@@ -1,0 +1,177 @@
+study_id,site_id,file_path,file_name,row_count,missing_pages_pct,missing_visits_pct,unresolved_edrr_pct,uncoded_terms_pct,pending_sae_pct
+Study_1397,Site_397,Study 10_CPID_Input Files - Anonymization\Study 10_Compiled_EDRR_14-Nov-2025_updated.xlsx,Study 10_Compiled_EDRR_14-Nov-2025_updated.xlsx,3,0.0,0.0,0.0,0.0,0.0
+Study_4137,Site_137,Study 10_CPID_Input Files - Anonymization\Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx,Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx,85,4.71,4.71,0.0,0.0,0.0
+Study_7317,Site_317,Study 10_CPID_Input Files - Anonymization\Study 10_GlobalCodingReport_MedDRA_14-Nov-2025_updated.xlsx,Study 10_GlobalCodingReport_MedDRA_14-Nov-2025_updated.xlsx,796,0.0,0.0,0.0,0.0,0.0
+Study_7348,Site_348,Study 10_CPID_Input Files - Anonymization\Study 10_GlobalCodingReport_WHODD-14-Nov-2025_updated.xlsx,Study 10_GlobalCodingReport_WHODD-14-Nov-2025_updated.xlsx,568,0.0,0.0,0.0,0.0,0.0
+Study_5110,Site_110,Study 10_CPID_Input Files - Anonymization\Study 10_Global_Missing_Pages_Report_14-Nov-2025_updated.xlsx,Study 10_Global_Missing_Pages_Report_14-Nov-2025_updated.xlsx,42,100.0,100.0,0.0,0.0,0.0
+Study_1403,Site_403,"Study 10_CPID_Input Files - Anonymization\Study 10_Inactivated Folders, Forms and Records Report_14-Nov-2025_updated.xlsx","Study 10_Inactivated Folders, Forms and Records Report_14-Nov-2025_updated.xlsx",10,0.0,0.0,0.0,0.0,0.0
+Study_2986,Site_986,Study 10_CPID_Input Files - Anonymization\Study 10_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx,Study 10_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx,70,0.0,0.0,0.0,0.0,0.0
+Study_9305,Site_305,Study 10_CPID_Input Files - Anonymization\Study 10_Visit Projection Tracker_14NOV2025_updated.xlsx,Study 10_Visit Projection Tracker_14NOV2025_updated.xlsx,6,0.0,0.0,0.0,0.0,0.0
+Study_7252,Site_252,Study 11_CPID_Input Files - Anonymization\Study 11_Compiled_EDRR_2025_Oct_27_updated.xlsx,Study 11_Compiled_EDRR_2025_Oct_27_updated.xlsx,1,0.0,0.0,0.0,0.0,0.0
+Study_9908,Site_908,Study 11_CPID_Input Files - Anonymization\Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx,487,0.82,0.62,0.0,0.0,0.0
+Study_9605,Site_605,Study 11_CPID_Input Files - Anonymization\Study 11_Global_Missing_Pages_Report_URSV5.0_updated.xlsx,Study 11_Global_Missing_Pages_Report_URSV5.0_updated.xlsx,26,176.92,88.46,0.0,0.0,0.0
+Study_2563,Site_563,Study 11_CPID_Input Files - Anonymization\Study 11_inactivated reprot_updated.xlsx,Study 11_inactivated reprot_updated.xlsx,12,0.0,0.0,0.0,0.0,0.0
+Study_7356,Site_356,Study 11_CPID_Input Files - Anonymization\Study 11_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx,Study 11_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx,16,0.0,0.0,0.0,0.0,0.0
+Study_7092,Site_092,Study 11_CPID_Input Files - Anonymization\Study 11_SAE Dashboard_Standard Metrics_14Nov2025_updated.xlsx,Study 11_SAE Dashboard_Standard Metrics_14Nov2025_updated.xlsx,14,100.0,0.0,0.0,0.0,0.0
+Study_0547,Site_547,Study 11_CPID_Input Files - Anonymization\Study 11_Visit Projection Tracker_13NOV2025_updated.xlsx,Study 11_Visit Projection Tracker_13NOV2025_updated.xlsx,14,0.0,0.0,0.0,0.0,0.0
+Study_6693,Site_693,Study 11_CPID_Input Files - Anonymization\Study 11_WHODD_updated.xlsx,Study 11_WHODD_updated.xlsx,4,0.0,0.0,0.0,0.0,0.0
+Study_4773,Site_773,Study 13_CPID_Input Files - Anonymization\Study 13_Compiled_EDRR_14Nov25_updated.xlsx,Study 13_Compiled_EDRR_14Nov25_updated.xlsx,3,0.0,0.0,0.0,0.0,0.0
+Study_6946,Site_946,Study 13_CPID_Input Files - Anonymization\Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx,Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx,26,23.08,15.38,0.0,0.0,0.0
+Study_1823,Site_823,Study 13_CPID_Input Files - Anonymization\Study 13_Global_Missing_Pages_Report_URSV3.0_14Nov25_updated.xlsx,Study 13_Global_Missing_Pages_Report_URSV3.0_14Nov25_updated.xlsx,72,138.89,122.22,0.0,0.0,0.0
+Study_4242,Site_242,"Study 13_CPID_Input Files - Anonymization\Study 13_Inactivated Folders, Forms and Records Report_14Nov25_updated.xlsx","Study 13_Inactivated Folders, Forms and Records Report_14Nov25_updated.xlsx",374,0.0,0.0,0.0,0.0,0.0
+Study_2080,Site_080,Study 13_CPID_Input Files - Anonymization\Study 13_MedDRA_14Nov25_updated.xlsx,Study 13_MedDRA_14Nov25_updated.xlsx,259,0.0,0.0,0.0,0.0,0.0
+Study_8418,Site_418,Study 13_CPID_Input Files - Anonymization\Study 13_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,Study 13_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,23,0.0,0.0,0.0,0.0,0.0
+Study_4688,Site_688,Study 13_CPID_Input Files - Anonymization\Study 13_SAE Dashboard_Standard Metrics Input file_14Nov25_updated.xlsx,Study 13_SAE Dashboard_Standard Metrics Input file_14Nov25_updated.xlsx,3,0.0,0.0,0.0,0.0,0.0
+Study_3551,Site_551,Study 13_CPID_Input Files - Anonymization\Study 13_WHODD_14Nov25_updated.xlsx,Study 13_WHODD_14Nov25_updated.xlsx,579,0.0,0.0,0.0,0.0,0.0
+Study_9855,Site_855,Study 14_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,7,100.0,42.86,0.0,0.0,0.0
+Study_4350,Site_350,Study 14_CPID_Input Files - Anonymization\GlobalCodingReport_MedRA CodingReport_Nov2025_updated.xlsx,GlobalCodingReport_MedRA CodingReport_Nov2025_updated.xlsx,12,0.0,0.0,0.0,0.0,0.0
+Study_8280,Site_280,Study 14_CPID_Input Files - Anonymization\GlobalCodingReport_WHODrug Coding Report_Nov 2025_updated.xlsx,GlobalCodingReport_WHODrug Coding Report_Nov 2025_updated.xlsx,2,0.0,0.0,0.0,0.0,0.0
+Study_2420,Site_420,Study 14_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_updated.xlsx,Global_Missing_Pages_Report_URSV3.0_updated.xlsx,18,66.67,44.44,0.0,0.0,0.0
+Study_5259,Site_259,"Study 14_CPID_Input Files - Anonymization\Study 14_Inactivated Folders, Forms and Report_13NOV2025_updated.xlsx","Study 14_Inactivated Folders, Forms and Report_13NOV2025_updated.xlsx",7,0.0,0.0,0.0,0.0,0.0
+Study_8950,STUDY_15_CPID_Input_Files_-_Anonymization,STUDY 15_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,97,41.24,15.46,0.0,0.0,0.0
+Study_8927,STUDY_15_CPID_Input_Files_-_Anonymization,STUDY 15_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,3,0.0,0.0,0.0,0.0,0.0
+Study_5077,STUDY_15_CPID_Input_Files_-_Anonymization,STUDY 15_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_updated.xlsx,Global_Missing_Pages_Report_URSV3.0_updated.xlsx,228,126.75,89.47,0.0,0.0,0.0
+Study_0407,STUDY_15_CPID_Input_Files_-_Anonymization,STUDY 15_CPID_Input Files - Anonymization\Inactivated Folders Forms and Records Report_updated.xlsx,Inactivated Folders Forms and Records Report_updated.xlsx,253,4.74,0.0,0.0,0.0,0.0
+Study_7276,Site_276,Study 16_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx,CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx,674,0.59,0.74,0.0,0.0,0.0
+Study_2511,Site_511,Study 16_CPID_Input Files - Anonymization\eSAE_updated_30-Oct-2025_updated.xlsx,eSAE_updated_30-Oct-2025_updated.xlsx,44,0.0,0.0,0.0,0.0,0.0
+Study_2273,Site_273,Study 16_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,3771,0.0,0.0,0.0,0.0,0.0
+Study_5144,Site_144,Study 16_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,5305,0.0,0.0,0.0,0.0,0.0
+Study_6173,Site_173,Study 16_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (17)_updated.xlsx,Global_Missing_Pages_Report_URSV3.0 (17)_updated.xlsx,136,30.15,30.15,0.0,0.0,0.0
+Study_3068,Site_068,"Study 16_CPID_Input Files - Anonymization\Inactivated Folders, Forms and Records Report_updated.xlsx","Inactivated Folders, Forms and Records Report_updated.xlsx",10078,0.12,0.0,0.0,0.0,0.0
+Study_8511,Site_511,Study 16_CPID_Input Files - Anonymization\Study 16_Compiled_EDRR_updated.xlsx,Study 16_Compiled_EDRR_updated.xlsx,208,0.0,0.0,0.0,0.0,0.0
+Study_8362,Site_362,Study 16_CPID_Input Files - Anonymization\Study 16_Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,Study 16_Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,221,0.0,0.0,0.0,0.0,0.0
+Study_2435,Site_435,Study 16_CPID_Input Files - Anonymization\Study 16_Visit Projection Tracker_updated.xlsx,Study 16_Visit Projection Tracker_updated.xlsx,327,0.0,0.0,0.0,0.0,0.0
+Study_5127,Site_127,Study 17_CPID_Input Files - Anonymization\Compiled EDRR_updated.xlsx,Compiled EDRR_updated.xlsx,12,0.0,0.0,0.0,0.0,0.0
+Study_4850,Site_850,Study 17_CPID_Input Files - Anonymization\CPID_EDC Metrics_updated.xlsx,CPID_EDC Metrics_updated.xlsx,52,11.54,5.77,0.0,0.0,0.0
+Study_0901,Site_901,Study 17_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,654,0.0,0.0,0.0,0.0,0.0
+Study_6798,Site_798,Study 17_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,781,0.0,0.0,0.0,0.0,0.0
+Study_0939,Site_939,Study 17_CPID_Input Files - Anonymization\Inactivated Form Folder Report_updated.xlsx,Inactivated Form Folder Report_updated.xlsx,913,1.31,0.0,0.0,0.0,0.0
+Study_5412,Site_412,Study 17_CPID_Input Files - Anonymization\Missing Lab & Range Report_updated.xlsx,Missing Lab & Range Report_updated.xlsx,253,0.0,0.0,0.0,0.0,0.0
+Study_9815,Site_815,Study 17_CPID_Input Files - Anonymization\Missing Page Report_updated.xlsx,Missing Page Report_updated.xlsx,235,116.17,96.6,0.0,0.0,0.0
+Study_1612,Site_612,Study 17_CPID_Input Files - Anonymization\SAE Dashboard_updated.xlsx,SAE Dashboard_updated.xlsx,8,0.0,0.0,0.0,0.0,0.0
+Study_8457,Site_457,Study 17_CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx,Visit Projection Tracker_updated.xlsx,8,0.0,0.0,0.0,0.0,0.0
+Study_8122,Site_122,Study 18_CPID_Input Files - Anonymization\Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx,217,18.43,1.38,0.0,0.0,0.0
+Study_0838,Site_838,Study 18_CPID_Input Files - Anonymization\Study 18_GlobalCodingReport_MedDRA_updated.xlsx,Study 18_GlobalCodingReport_MedDRA_updated.xlsx,596,0.0,0.0,0.0,0.0,0.0
+Study_4039,Site_039,Study 18_CPID_Input Files - Anonymization\Study 18_GlobalCodingReport_WHODD_updated.xlsx,Study 18_GlobalCodingReport_WHODD_updated.xlsx,109,0.0,0.0,0.0,0.0,0.0
+Study_7816,Site_816,Study 18_CPID_Input Files - Anonymization\Study 18_Global_Missing_Pages_Report_URSV3.0 (18)_updated.xlsx,Study 18_Global_Missing_Pages_Report_URSV3.0 (18)_updated.xlsx,15,80.0,80.0,0.0,0.0,0.0
+Study_9841,Site_841,Study 18_CPID_Input Files - Anonymization\Study 18_Inactivated page report_updated.xlsx,Study 18_Inactivated page report_updated.xlsx,4,0.0,0.0,0.0,0.0,0.0
+Study_2892,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx,52,21.15,13.46,0.0,0.0,0.0
+Study_2639,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_Global_Missing_Pages_Report_URSV3.0_updated.xlsx,Study 19_Global_Missing_Pages_Report_URSV3.0_updated.xlsx,222,92.79,71.17,0.0,0.0,0.0
+Study_1586,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_Inactivated Form Folder Report_updated.xlsx,Study 19_Inactivated Form Folder Report_updated.xlsx,282,0.0,0.0,0.0,0.0,0.0
+Study_0809,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_MedDRA_updated.xlsx,Study 19_MedDRA_updated.xlsx,259,0.0,0.0,0.0,0.0,0.0
+Study_9479,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,Study 19_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,171,0.0,0.0,0.0,0.0,0.0
+Study_7948,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_Visit Projection Tracker_14NOV2025_updated.xlsx,Study 19_Visit Projection Tracker_14NOV2025_updated.xlsx,15,0.0,0.0,0.0,0.0,0.0
+Study_2811,STUDY_19_CPID_Input_Files_-_Anonymization,STUDY 19_CPID_Input Files - Anonymization\Study 19_WHODD_updated.xlsx,Study 19_WHODD_updated.xlsx,384,0.0,0.0,0.0,0.0,0.0
+Study_3458,Site_458,Study 1_CPID_Input Files - Anonymization\Study 1_Compiled_EDRR_updated.xlsx,Study 1_Compiled_EDRR_updated.xlsx,28,0.0,0.0,0.0,0.0,0.0
+Study_8096,Site_096,Study 1_CPID_Input Files - Anonymization\Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx,Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx,102,19.61,9.8,0.0,0.0,0.0
+Study_8024,Site_024,Study 1_CPID_Input Files - Anonymization\Study 1_eSAE Dashboard_Standard DM_Safety Report_updated.xlsx,Study 1_eSAE Dashboard_Standard DM_Safety Report_updated.xlsx,700,100.0,0.0,0.0,0.0,0.0
+Study_1457,Site_457,Study 1_CPID_Input Files - Anonymization\Study 1_GlobalCodingReport_MedDRA_updated.xlsx,Study 1_GlobalCodingReport_MedDRA_updated.xlsx,1513,0.0,0.0,0.0,0.0,0.0
+Study_4359,Site_359,Study 1_CPID_Input Files - Anonymization\Study 1_GlobalCodingReport_WHODD_updated.xlsx,Study 1_GlobalCodingReport_WHODD_updated.xlsx,1573,0.0,0.0,0.0,0.0,0.0
+Study_6833,Site_833,"Study 1_CPID_Input Files - Anonymization\Study 1_Inactivated Forms, Folders and  Records Report_updated.xlsx","Study 1_Inactivated Forms, Folders and  Records Report_updated.xlsx",5607,0.0,0.0,0.0,0.0,0.0
+Study_0593,Site_593,Study 1_CPID_Input Files - Anonymization\Study 1_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx,Study 1_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx,128,0.0,0.0,0.0,0.0,0.0
+Study_4326,Site_326,Study 1_CPID_Input Files - Anonymization\Study 1_Missing_Pages_Report_URSV3.0_14 NOV 2025_updated.xlsx,Study 1_Missing_Pages_Report_URSV3.0_14 NOV 2025_updated.xlsx,193,0.0,39.38,0.0,0.0,0.0
+Study_3834,Site_834,Study 1_CPID_Input Files - Anonymization\Study 1_Visit Projection Tracker_14NOV2025_updated.xlsx,Study 1_Visit Projection Tracker_14NOV2025_updated.xlsx,15,0.0,0.0,0.0,0.0,0.0
+Study_8561,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,26,15.38,11.54,0.0,0.0,0.0
+Study_9389,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\GlobalCodingReport MedDRA_updated.xlsx,GlobalCodingReport MedDRA_updated.xlsx,98,0.0,0.0,0.0,0.0,0.0
+Study_4922,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\GlobalCodingReport WHODrug_updated.xlsx,GlobalCodingReport WHODrug_updated.xlsx,58,0.0,0.0,0.0,0.0,0.0
+Study_8258,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx,Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx,64,129.69,104.69,0.0,0.0,0.0
+Study_4122,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\Inactivated Form Folder Report_updated.xlsx,Inactivated Form Folder Report_updated.xlsx,96,0.0,0.0,0.0,0.0,0.0
+Study_9860,STUDY_20__CPID_Input_Files_-_Anonymization,STUDY 20__CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,82,0.0,0.0,0.0,0.0,0.0
+Study_8456,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Compiled_EDRR_2025_Nov_12_12_17_01_updated.xlsx,Compiled_EDRR_2025_Nov_12_12_17_01_updated.xlsx,85,0.0,0.0,0.0,0.0,0.0
+Study_6844,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx,CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx,26446,0.02,0.03,0.0,0.0,0.0
+Study_2207,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Global Coding Report_Medra 4_updated.xlsx,Global Coding Report_Medra 4_updated.xlsx,431523,0.0,0.0,0.0,0.0,0.0
+Study_5978,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Global Coding Report_WHODD 4_updated.xlsx,Global Coding Report_WHODD 4_updated.xlsx,242103,0.0,0.0,0.0,0.0,0.0
+Study_1008,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Inactivated report_updated.xlsx,Inactivated report_updated.xlsx,117,0.0,0.0,0.0,0.0,0.0
+Study_7994,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx (1) (2)_updated.xlsx,SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx (1) (2)_updated.xlsx,5093,100.0,0.0,0.0,0.0,0.0
+Study_7326,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Study 21_Missing_Pages_Report_06Nov2025_updated.xlsx,Study 21_Missing_Pages_Report_06Nov2025_updated.xlsx,291,154.98,65.98,0.0,0.0,0.0
+Study_8006,STUDY_21_CPID_Input_Files_-_Anonymization,STUDY 21_CPID_Input Files - Anonymization\Study 21_Visit_Projection_Tracker_1_30OCT2025_NIMMASW1.xls (2)_updated.xlsx,Study 21_Visit_Projection_Tracker_1_30OCT2025_NIMMASW1.xls (2)_updated.xlsx,354,0.0,0.0,0.0,0.0,0.0
+Study_3099,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx,CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx,21562,0.02,0.01,0.0,0.0,0.0
+Study_1005,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_Compiled EDRR_updated.xlsx,Study 22_Compiled EDRR_updated.xlsx,267,0.0,0.0,0.0,0.0,0.0
+Study_0845,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_eSAE Dashboard_DM_Safety_updated.xlsx,Study 22_eSAE Dashboard_DM_Safety_updated.xlsx,165,100.0,0.0,0.0,0.0,0.0
+Study_6305,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_Global Missing Pages Report_updated.xlsx,Study 22_Global Missing Pages Report_updated.xlsx,2202,181.34,100.5,0.0,0.0,0.0
+Study_3127,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_GlobalCodingReport_MedDRA_updated.xlsx,Study 22_GlobalCodingReport_MedDRA_updated.xlsx,138,0.0,0.0,0.0,0.0,0.0
+Study_5970,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_GlobalCodingReport_WHODD_updated.xlsx,Study 22_GlobalCodingReport_WHODD_updated.xlsx,304,0.0,0.0,0.0,0.0,0.0
+Study_6005,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_Inactivated Page Report_updated.xlsx,Study 22_Inactivated Page Report_updated.xlsx,227,0.0,0.0,0.0,0.0,0.0
+Study_8362,STUDY_22_CPID_Input_Files_-_Anonymization,STUDY 22_CPID_Input Files - Anonymization\Study 22_Missing visit_updated.xlsx,Study 22_Missing visit_updated.xlsx,727,0.0,0.0,0.0,0.0,0.0
+Study_6134,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,6362,0.0,0.0,0.0,0.0,0.0
+Study_4047,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,4206,0.0,0.0,0.0,0.0,0.0
+Study_1819,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_13 Nov 25_updated.xlsx,Global_Missing_Pages_Report_URSV3.0_13 Nov 25_updated.xlsx,18,33.33,16.67,0.0,0.0,0.0
+Study_9690,STUDY_23_CPID_Input_Files_-_Anonymization,"STUDY 23_CPID_Input Files - Anonymization\Inactivated Folders, Forms and Records Report_13 Nov 25_updated.xlsx","Inactivated Folders, Forms and Records Report_13 Nov 25_updated.xlsx",8502,0.14,0.0,0.0,0.0,0.0
+Study_5550,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx,SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx,21,100.0,0.0,0.0,0.0,0.0
+Study_0342,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx,Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx,2933,0.14,0.1,0.0,0.0,0.0
+Study_9436,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\Study 23_Compiled_EDRR_2025_Nov_10_updated.xlsx,Study 23_Compiled_EDRR_2025_Nov_10_updated.xlsx,135,0.0,0.0,0.0,0.0,0.0
+Study_7966,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\Study 23_Missing_Lab_Name_and_Missing_Ranges_IDR_NICR_TRIPAASB_13NOV2025_updated.xlsx,Study 23_Missing_Lab_Name_and_Missing_Ranges_IDR_NICR_TRIPAASB_13NOV2025_updated.xlsx,1,0.0,0.0,0.0,0.0,0.0
+Study_7652,STUDY_23_CPID_Input_Files_-_Anonymization,STUDY 23_CPID_Input Files - Anonymization\Study 23_Visit_Projection_Tracker_TRIPAASB_13NOV25_updated.xlsx,Study 23_Visit_Projection_Tracker_TRIPAASB_13NOV25_updated.xlsx,5,0.0,0.0,0.0,0.0,0.0
+Study_2498,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Compiled EDRR_updated.xlsx,Compiled EDRR_updated.xlsx,27,0.0,0.0,0.0,0.0,0.0
+Study_1729,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\eSAE dashboard_DM_Safety_updated.xlsx,eSAE dashboard_DM_Safety_updated.xlsx,133,100.0,0.0,0.0,0.0,0.0
+Study_0084,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,3432,0.0,0.0,0.0,0.0,0.0
+Study_9479,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,3759,0.0,0.0,0.0,0.0,0.0
+Study_2693,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_updated.xlsx,Global_Missing_Pages_Report_updated.xlsx,1019,124.93,124.93,0.0,0.0,0.0
+Study_5077,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Inactivated Forms and Folders_updated.xlsx,Inactivated Forms and Folders_updated.xlsx,17,0.0,0.0,0.0,0.0,0.0
+Study_3657,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges.xls_updated.xlsx,Missing_Lab_Name_and_Missing_Ranges.xls_updated.xlsx,18103,0.0,0.0,0.0,0.0,0.0
+Study_7806,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx,665,0.6,4.66,0.0,0.0,0.0
+Study_2374,STUDY_24_CPID_Input_Files_-_Anonymization,STUDY 24_CPID_Input Files - Anonymization\Visit Projection Tracker.xls_updated.xlsx,Visit Projection Tracker.xls_updated.xlsx,78,0.0,0.0,0.0,0.0,0.0
+Study_4662,Site_662,Study 25_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,1378,0.29,0.22,0.0,0.0,0.0
+Study_5849,Site_849,Study 25_CPID_Input Files - Anonymization\eSAE dashboard_DM_Safety 1_updated.xlsx,eSAE dashboard_DM_Safety 1_updated.xlsx,217,100.0,0.0,0.0,0.0,0.0
+Study_2078,Site_078,Study 25_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA 6_updated.xlsx,GlobalCodingReport_MedDRA 6_updated.xlsx,8681,0.0,0.0,0.0,0.0,0.0
+Study_1478,Site_478,Study 25_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD 6_updated.xlsx,GlobalCodingReport_WHODD 6_updated.xlsx,14693,0.0,0.0,0.0,0.0,0.0
+Study_7693,Site_693,Study 25_CPID_Input Files - Anonymization\Inactivated forms and folder_updated.xlsx,Inactivated forms and folder_updated.xlsx,18972,0.06,0.0,0.0,0.0,0.0
+Study_1123,Site_123,Study 25_CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,5,0.0,0.0,20.0,0.0,0.0
+Study_9996,Site_996,Study 25_CPID_Input Files - Anonymization\Study 25_Compiled_EDRR_2025_Sep_24_10_52_25_updated.xlsx,Study 25_Compiled_EDRR_2025_Sep_24_10_52_25_updated.xlsx,38,0.0,0.0,0.0,0.0,0.0
+Study_5100,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,83,4.82,3.61,0.0,0.0,0.0
+Study_9782,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Inactivated_updated.xlsx,Inactivated_updated.xlsx,4043,0.3,0.0,0.0,0.0,0.0
+Study_6223,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\SAE Dashboard_updated.xlsx,SAE Dashboard_updated.xlsx,25,100.0,0.0,0.0,0.0,0.0
+Study_2205,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Study 2_Compiled_EDRR_2025_updated.xlsx,Study 2_Compiled_EDRR_2025_updated.xlsx,1,0.0,0.0,0.0,0.0,0.0
+Study_2745,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Study 2_GlobalCodingReport_WHOdra_updated.xlsx,Study 2_GlobalCodingReport_WHOdra_updated.xlsx,2138,0.0,0.0,0.0,0.0,0.0
+Study_9693,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Study 2_Global_Missing_Pages_Report_20251107_updated.xlsx,Study 2_Global_Missing_Pages_Report_20251107_updated.xlsx,15,200.0,160.0,0.0,0.0,0.0
+Study_8527,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Study 2_Missing_Lab_Name_and_Missing_Ranges.xlsx,Study 2_Missing_Lab_Name_and_Missing_Ranges.xlsx,42,0.0,0.0,0.0,0.0,0.0
+Study_6661,STUDY_2_CPID_Input_Files_-_Anonymization,STUDY 2_CPID_Input Files - Anonymization\Study 2_Visit Projection Tracker.xlsx,Study 2_Visit Projection Tracker.xlsx,2,0.0,0.0,0.0,0.0,0.0
+Study_2193,Site_193,Study 4_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0_updated.xlsx,CPID_EDC Metrics_URSV2.0_updated.xlsx,1558,0.26,0.19,0.0,0.0,0.0
+Study_9855,Site_855,Study 4_CPID_Input Files - Anonymization\eSAE Dashboard DM_Safety_08Oct2025_updated.xlsx,eSAE Dashboard DM_Safety_08Oct2025_updated.xlsx,10639,0.0,0.0,0.0,0.0,0.0
+Study_7128,Site_128,Study 4_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,30140,0.0,0.0,0.0,0.0,0.0
+Study_5768,Site_768,Study 4_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,26340,0.0,0.0,0.0,0.0,0.0
+Study_9954,Site_954,Study 4_CPID_Input Files - Anonymization\Inactivated report for metrics_20Oct 2025_updated.xlsx,Inactivated report for metrics_20Oct 2025_updated.xlsx,37,0.0,0.0,0.0,0.0,0.0
+Study_5016,Site_016,Study 4_CPID_Input Files - Anonymization\Study 4_Compiled_EDRR_2025_Nov_14_13_32_27_updated.xlsx,Study 4_Compiled_EDRR_2025_Nov_14_13_32_27_updated.xlsx,67,0.0,0.0,0.0,0.0,0.0
+Study_6645,Site_645,Study 4_CPID_Input Files - Anonymization\Study 4_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,Study 4_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,3,0.0,0.0,0.0,0.0,0.0
+Study_5312,Site_312,Study 4_CPID_Input Files - Anonymization\Study 4_Missing_page_report_13Nov2025_updated.xlsx,Study 4_Missing_page_report_13Nov2025_updated.xlsx,4,200.0,100.0,0.0,0.0,0.0
+Study_3053,Site_053,Study 4_CPID_Input Files - Anonymization\Study 4_Visit Projection Tracker_10NOV2025_updated.xlsx,Study 4_Visit Projection Tracker_10NOV2025_updated.xlsx,1494,0.0,99.93,0.0,0.0,0.0
+Study_2263,Site_263,Study 5_CPID_Input Files - Anonymization\Study 5_Compiled EDRR_updated.xlsx,Study 5_Compiled EDRR_updated.xlsx,4,0.0,0.0,0.0,0.0,0.0
+Study_7095,Site_095,Study 5_CPID_Input Files - Anonymization\Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx,682,10.7,3.08,0.0,0.0,0.0
+Study_9370,Site_370,Study 5_CPID_Input Files - Anonymization\Study 5_eSAE_Dashboard_DM_Safety_updated.xlsx,Study 5_eSAE_Dashboard_DM_Safety_updated.xlsx,7,0.0,0.0,0.0,0.0,0.0
+Study_6826,Site_826,Study 5_CPID_Input Files - Anonymization\Study 5_Global Missing Pages_updated.xlsx,Study 5_Global Missing Pages_updated.xlsx,928,148.06,43.43,0.0,0.0,0.0
+Study_2758,Site_758,Study 5_CPID_Input Files - Anonymization\Study 5_GlobalCodingReport_MedDRA_updated.xlsx,Study 5_GlobalCodingReport_MedDRA_updated.xlsx,1922,0.0,0.0,0.0,0.0,0.0
+Study_9376,Site_376,Study 5_CPID_Input Files - Anonymization\Study 5_GlobalCodingReport_WHODD_updated.xlsx,Study 5_GlobalCodingReport_WHODD_updated.xlsx,1050,0.0,0.0,0.0,0.0,0.0
+Study_3640,Site_640,Study 5_CPID_Input Files - Anonymization\Study 5_Inactivated Forms and Folders_updated.xlsx,Study 5_Inactivated Forms and Folders_updated.xlsx,5073,0.24,0.0,0.0,0.0,0.0
+Study_2056,Site_056,Study 5_CPID_Input Files - Anonymization\Study 5_Missing_Lab_Name_And_Missing_Ranges_updated.xlsx,Study 5_Missing_Lab_Name_And_Missing_Ranges_updated.xlsx,531,0.0,0.0,0.0,0.0,0.0
+Study_9022,Site_022,Study 5_CPID_Input Files - Anonymization\Study 5_Visit Projection Tracker_updated.xlsx,Study 5_Visit Projection Tracker_updated.xlsx,21,0.0,0.0,0.0,0.0,0.0
+Study_3322,Site_322,Study 6 _CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx,CPID_EDC_Metrics_URSV2.0_updated.xlsx,57,8.77,7.02,0.0,0.0,0.0
+Study_5630,Site_630,Study 6 _CPID_Input Files - Anonymization\eSAE Dashboard DM_Safety 1_updated.xlsx,eSAE Dashboard DM_Safety 1_updated.xlsx,1,0.0,0.0,0.0,0.0,0.0
+Study_8795,Site_795,Study 6 _CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,349,0.0,0.0,0.0,0.0,0.0
+Study_7926,Site_926,Study 6 _CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx,GlobalCodingReport_WHODD_updated.xlsx,518,0.0,0.0,0.0,0.0,0.0
+Study_1058,Site_058,Study 6 _CPID_Input Files - Anonymization\Global_Missing_Pages_Report_updated.xlsx,Global_Missing_Pages_Report_updated.xlsx,210,97.14,27.14,0.0,0.0,0.0
+Study_3047,Site_047,Study 6 _CPID_Input Files - Anonymization\Inactivated forms and folder_updated.xlsx,Inactivated forms and folder_updated.xlsx,608,1.97,0.0,0.0,0.0,0.0
+Study_5861,Site_861,Study 6 _CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,Missing_Lab_Name_and_Missing_Ranges_updated.xlsx,232,0.0,0.0,0.0,0.0,0.0
+Study_2166,Site_166,Study 6 _CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx,Visit Projection Tracker_updated.xlsx,12,0.0,0.0,0.0,0.0,0.0
+Study_3074,Site_074,Study 7_CPID_Input Files - Anonymization\Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx,Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx,37,16.22,13.51,0.0,0.0,0.0
+Study_8567,Site_567,Study 7_CPID_Input Files - Anonymization\Study 7_eSAE Dashboard DM_Safety_13NOV2025_updated.xlsx,Study 7_eSAE Dashboard DM_Safety_13NOV2025_updated.xlsx,5,0.0,0.0,0.0,0.0,0.0
+Study_3671,Site_671,Study 7_CPID_Input Files - Anonymization\Study 7_GlobalCodingReport_medDRA_updated.xlsx,Study 7_GlobalCodingReport_medDRA_updated.xlsx,274,0.0,0.0,0.0,0.0,0.0
+Study_8439,Site_439,Study 7_CPID_Input Files - Anonymization\Study 7_GlobalCodingReport_whoDrug_updated.xlsx,Study 7_GlobalCodingReport_whoDrug_updated.xlsx,357,0.0,0.0,0.0,0.0,0.0
+Study_1175,Site_175,Study 7_CPID_Input Files - Anonymization\Study 7_Global_Missing_Pages_Report_13Nov2025_updated.xlsx,Study 7_Global_Missing_Pages_Report_13Nov2025_updated.xlsx,98,91.84,73.47,0.0,0.0,0.0
+Study_0268,Site_268,Study 7_CPID_Input Files - Anonymization\Study 7_Inactivated pages_13Nov2025_updated.xlsx,Study 7_Inactivated pages_13Nov2025_updated.xlsx,4,50.0,0.0,0.0,0.0,0.0
+Study_4503,Site_503,Study 7_CPID_Input Files - Anonymization\Study 7_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,Study 7_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx,733,0.0,0.0,0.0,0.0,0.0
+Study_7013,Site_013,Study 8_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics_13Nov2025_updated.xlsx,SAE Dashboard_Standard Metrics_13Nov2025_updated.xlsx,21,0.0,0.0,0.0,0.0,0.0
+Study_7191,Site_191,Study 8_CPID_Input Files - Anonymization\Study 8_Compiled_EDRR_2025_Nov_13_20_00_17_updated.xlsx,Study 8_Compiled_EDRR_2025_Nov_13_20_00_17_updated.xlsx,14,0.0,0.0,0.0,0.0,0.0
+Study_8433,Site_433,Study 8_CPID_Input Files - Anonymization\Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx,Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx,656,0.61,0.46,0.0,0.0,0.0
+Study_9121,Site_121,Study 8_CPID_Input Files - Anonymization\Study 8_GlobalCodingReport_MedDRA_13Nov2025_updated.xlsx,Study 8_GlobalCodingReport_MedDRA_13Nov2025_updated.xlsx,7403,0.0,0.0,0.0,0.0,0.0
+Study_4078,Site_078,Study 8_CPID_Input Files - Anonymization\Study 8_GlobalCodingReport_WHODD_13Nov2025_updated.xlsx,Study 8_GlobalCodingReport_WHODD_13Nov2025_updated.xlsx,5042,0.0,0.0,0.0,0.0,0.0
+Study_9230,Site_230,Study 8_CPID_Input Files - Anonymization\Study 8_Global_Missing_Pages_Report_URSV3.0_13Nov2025_updated.xlsx,Study 8_Global_Missing_Pages_Report_URSV3.0_13Nov2025_updated.xlsx,39,117.95,84.62,0.0,0.0,0.0
+Study_6906,Site_906,"Study 8_CPID_Input Files - Anonymization\Study 8_Inactivated Folders, Forms and Records Report_13Nov2025_updated.xlsx","Study 8_Inactivated Folders, Forms and Records Report_13Nov2025_updated.xlsx",998,1.2,0.0,0.0,0.0,0.0
+Study_9107,Site_107,Study 8_CPID_Input Files - Anonymization\Study 8_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx,Study 8_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx,24,0.0,0.0,0.0,0.0,0.0
+Study_5973,Site_973,Study 8_CPID_Input Files - Anonymization\Study 8_Visit Projection Tracker_13NOV2025_updated.xlsx,Study 8_Visit Projection Tracker_13NOV2025_updated.xlsx,24,0.0,0.0,0.0,0.0,0.0
+Study_3762,Site_762,Study 9_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx,CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx,184,2.17,1.63,0.0,0.0,0.0
+Study_7108,Site_108,Study 9_CPID_Input Files - Anonymization\GlobalCodingReport _WHODrug_updated.xlsx,GlobalCodingReport _WHODrug_updated.xlsx,315,0.0,0.0,0.0,0.0,0.0
+Study_1817,Site_817,Study 9_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx,GlobalCodingReport_MedDRA_updated.xlsx,208,0.0,0.0,0.0,0.0,0.0
+Study_8415,Site_415,Study 9_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx,Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx,41,29.27,14.63,0.0,0.0,0.0
+Study_7448,Site_448,Study 9_CPID_Input Files - Anonymization\Inactivated pages_updated.xlsx,Inactivated pages_updated.xlsx,10650,0.0,0.0,0.0,0.0,0.0
+Study_7264,Site_264,Study 9_CPID_Input Files - Anonymization\Study 9_eSAE Dashboard_DM_Safety_updated.xlsx,Study 9_eSAE Dashboard_DM_Safety_updated.xlsx,2,0.0,0.0,0.0,0.0,0.0
+Study_5849,Site_849,Study 9_CPID_Input Files - Anonymization\Study 9_Missing_Lab_Name_and_Missing_Ranges_IDR_12NOV2025_updated.xlsx,Study 9_Missing_Lab_Name_and_Missing_Ranges_IDR_12NOV2025_updated.xlsx,31,0.0,0.0,0.0,0.0,0.0

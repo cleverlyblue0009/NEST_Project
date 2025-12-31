@@ -1,0 +1,175 @@
+study_id,site_id,global_rank,within_study_rank,dqi_score,risk_level,risk_driver,total_signal_pct,top_risk_drivers
+Study_1058,Site_058,1,1,67.53,High Risk,Rule-based,124.28,"Missing Visits, CRF Pages"
+Study_1175,Site_175,2,1,67.53,High Risk,Rule-based,165.31,"Missing Visits, CRF Pages"
+Study_1823,Site_823,3,1,67.53,High Risk,Rule-based,261.11,"Missing Visits, CRF Pages"
+Study_2420,Site_420,4,1,67.53,High Risk,Rule-based,111.11,"Missing Visits, CRF Pages"
+Study_2639,STUDY_19_CPID_Input_Files_-_Anonymization,5,1,67.53,High Risk,Rule-based,163.96,"Missing Visits, CRF Pages"
+Study_2693,STUDY_24_CPID_Input_Files_-_Anonymization,6,1,67.53,High Risk,Rule-based,249.86,"Missing Visits, CRF Pages"
+Study_5110,Site_110,7,1,67.53,High Risk,Rule-based,200.0,"Missing Visits, CRF Pages"
+Study_5077,STUDY_15_CPID_Input_Files_-_Anonymization,8,1,67.53,High Risk,Rule-based,216.22,"Missing Visits, CRF Pages"
+Study_6173,Site_173,9,1,67.53,High Risk,Rule-based,60.3,"Missing Visits, CRF Pages"
+Study_6305,STUDY_22_CPID_Input_Files_-_Anonymization,10,1,67.53,High Risk,Rule-based,281.84000000000003,"Missing Visits, CRF Pages"
+Study_6826,Site_826,11,1,67.53,High Risk,Rule-based,191.49,"Missing Visits, CRF Pages"
+Study_7326,STUDY_21_CPID_Input_Files_-_Anonymization,12,1,67.53,High Risk,Rule-based,220.95999999999998,"Missing Visits, CRF Pages"
+Study_7816,Site_816,13,1,67.53,High Risk,Rule-based,160.0,"Missing Visits, CRF Pages"
+Study_5312,Site_312,14,1,67.53,High Risk,Rule-based,300.0,"Missing Visits, CRF Pages"
+Study_9230,Site_230,15,1,67.53,High Risk,Rule-based,202.57,"Missing Visits, CRF Pages"
+Study_8258,STUDY_20__CPID_Input_Files_-_Anonymization,16,1,67.53,High Risk,Rule-based,234.38,"Missing Visits, CRF Pages"
+Study_9605,Site_605,17,1,67.53,High Risk,Rule-based,265.38,"Missing Visits, CRF Pages"
+Study_9693,STUDY_2_CPID_Input_Files_-_Anonymization,18,1,67.53,High Risk,Rule-based,360.0,"Missing Visits, CRF Pages"
+Study_9815,Site_815,19,1,67.53,High Risk,Rule-based,212.76999999999998,"Missing Visits, CRF Pages"
+Study_9855,Site_855,20,1,67.53,High Risk,Rule-based,71.43,"Missing Visits, CRF Pages"
+Study_1819,STUDY_23_CPID_Input_Files_-_Anonymization,21,1,74.02,High Risk,Rule-based,50.0,"CRF Pages, Missing Visits"
+Study_8950,STUDY_15_CPID_Input_Files_-_Anonymization,22,1,76.38,High Risk,Rule-based,56.7,"CRF Pages, Missing Visits"
+Study_6946,Site_946,23,1,76.53,High Risk,Rule-based,38.46,"CRF Pages, Missing Visits"
+Study_8415,Site_415,24,1,77.99,High Risk,Rule-based,43.9,"CRF Pages, Missing Visits"
+Study_3074,Site_074,25,1,80.18,High Risk,Rule-based,29.729999999999997,"CRF Pages, Missing Visits"
+Study_2892,STUDY_19_CPID_Input_Files_-_Anonymization,26,1,80.27,High Risk,Rule-based,34.61,"CRF Pages, Missing Visits"
+Study_3053,Site_053,27,1,80.52,High Risk,Rule-based,99.93,Missing Visits
+Study_1123,Site_123,28,1,80.52,High Risk,Rule-based,20.0,EDRR Queries
+Study_4326,Site_326,29,1,80.52,High Risk,Rule-based,39.38,Missing Visits
+Study_8561,STUDY_20__CPID_Input_Files_-_Anonymization,30,1,84.01,High Risk,Rule-based,26.92,"CRF Pages, Missing Visits"
+Study_7095,Site_095,31,1,87.01,High Risk,Rule-based,13.78,CRF Pages
+Study_7092,Site_092,32,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_6223,STUDY_2_CPID_Input_Files_-_Anonymization,33,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_4850,Site_850,34,1,87.01,High Risk,Rule-based,17.31,CRF Pages
+Study_5550,STUDY_23_CPID_Input_Files_-_Anonymization,35,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_8096,Site_096,36,1,87.01,High Risk,Rule-based,29.41,CRF Pages
+Study_7994,STUDY_21_CPID_Input_Files_-_Anonymization,37,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_8024,Site_024,38,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_8122,Site_122,39,1,87.01,High Risk,Rule-based,19.81,CRF Pages
+Study_5849,Site_849,40,1,87.01,High Risk,Rule-based,50.0,CRF Pages
+Study_0845,STUDY_22_CPID_Input_Files_-_Anonymization,41,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_0268,Site_268,42,1,87.01,High Risk,Rule-based,50.0,CRF Pages
+Study_1729,STUDY_24_CPID_Input_Files_-_Anonymization,43,1,87.01,High Risk,Rule-based,100.0,CRF Pages
+Study_3322,Site_322,44,1,90.21,High Risk,Rule-based,15.79,CRF Pages
+Study_2205,STUDY_2_CPID_Input_Files_-_Anonymization,45,1,100.0,High Risk,Rule-based,0.0,
+Study_2193,Site_193,46,1,100.0,High Risk,Rule-based,0.45,
+Study_2166,Site_166,47,1,100.0,High Risk,Rule-based,0.0,
+Study_2263,Site_263,48,1,100.0,High Risk,Rule-based,0.0,
+Study_1008,STUDY_21_CPID_Input_Files_-_Anonymization,49,1,100.0,High Risk,Rule-based,0.0,
+Study_0901,Site_901,50,1,100.0,High Risk,Rule-based,0.0,
+Study_0939,Site_939,51,1,100.0,High Risk,Rule-based,1.31,
+Study_2080,Site_080,52,1,100.0,High Risk,Rule-based,0.0,
+Study_2078,Site_078,53,1,100.0,High Risk,Rule-based,0.0,
+Study_2056,Site_056,54,1,100.0,High Risk,Rule-based,0.0,
+Study_1612,Site_612,55,1,100.0,High Risk,Rule-based,0.0,
+Study_2374,STUDY_24_CPID_Input_Files_-_Anonymization,56,1,100.0,High Risk,Rule-based,0.0,
+Study_2511,Site_511,57,1,100.0,High Risk,Rule-based,0.0,
+Study_2498,STUDY_24_CPID_Input_Files_-_Anonymization,58,1,100.0,High Risk,Rule-based,0.0,
+Study_2435,Site_435,59,1,100.0,High Risk,Rule-based,0.0,
+Study_2563,Site_563,60,1,100.0,High Risk,Rule-based,0.0,
+Study_2745,STUDY_2_CPID_Input_Files_-_Anonymization,61,1,100.0,High Risk,Rule-based,0.0,
+Study_2207,STUDY_21_CPID_Input_Files_-_Anonymization,62,1,100.0,High Risk,Rule-based,0.0,
+Study_2273,Site_273,63,1,100.0,High Risk,Rule-based,0.0,
+Study_0838,Site_838,64,1,100.0,High Risk,Rule-based,0.0,
+Study_4047,STUDY_23_CPID_Input_Files_-_Anonymization,65,1,100.0,High Risk,Rule-based,0.0,
+Study_4039,Site_039,66,1,100.0,High Risk,Rule-based,0.0,
+Study_3834,Site_834,67,1,100.0,High Risk,Rule-based,0.0,
+Study_3762,Site_762,68,1,100.0,High Risk,Rule-based,3.8,
+Study_3671,Site_671,69,1,100.0,High Risk,Rule-based,0.0,
+Study_3657,STUDY_24_CPID_Input_Files_-_Anonymization,70,1,100.0,High Risk,Rule-based,0.0,
+Study_3640,Site_640,71,1,100.0,High Risk,Rule-based,0.24,
+Study_3551,Site_551,72,1,100.0,High Risk,Rule-based,0.0,
+Study_3458,Site_458,73,1,100.0,High Risk,Rule-based,0.0,
+Study_3127,STUDY_22_CPID_Input_Files_-_Anonymization,74,1,100.0,High Risk,Rule-based,0.0,
+Study_3099,STUDY_22_CPID_Input_Files_-_Anonymization,75,1,100.0,High Risk,Rule-based,0.03,
+Study_3068,Site_068,76,1,100.0,High Risk,Rule-based,0.12,
+Study_3047,Site_047,77,1,100.0,High Risk,Rule-based,1.97,
+Study_2758,Site_758,78,1,100.0,High Risk,Rule-based,0.0,
+Study_2811,STUDY_19_CPID_Input_Files_-_Anonymization,79,1,100.0,High Risk,Rule-based,0.0,
+Study_2986,Site_986,80,1,100.0,High Risk,Rule-based,0.0,
+Study_5077,STUDY_24_CPID_Input_Files_-_Anonymization,81,2,100.0,High Risk,Rule-based,0.0,
+Study_5016,Site_016,82,1,100.0,High Risk,Rule-based,0.0,
+Study_4922,STUDY_20__CPID_Input_Files_-_Anonymization,83,1,100.0,High Risk,Rule-based,0.0,
+Study_4773,Site_773,84,1,100.0,High Risk,Rule-based,0.0,
+Study_5144,Site_144,85,1,100.0,High Risk,Rule-based,0.0,
+Study_5127,Site_127,86,1,100.0,High Risk,Rule-based,0.0,
+Study_5259,Site_259,87,1,100.0,High Risk,Rule-based,0.0,
+Study_4078,Site_078,88,1,100.0,High Risk,Rule-based,0.0,
+Study_4503,Site_503,89,1,100.0,High Risk,Rule-based,0.0,
+Study_4359,Site_359,90,1,100.0,High Risk,Rule-based,0.0,
+Study_4688,Site_688,91,1,100.0,High Risk,Rule-based,0.0,
+Study_4662,Site_662,92,1,100.0,High Risk,Rule-based,0.51,
+Study_4242,Site_242,93,1,100.0,High Risk,Rule-based,0.0,
+Study_4350,Site_350,94,1,100.0,High Risk,Rule-based,0.0,
+Study_4137,Site_137,95,1,100.0,High Risk,Rule-based,9.42,
+Study_4122,STUDY_20__CPID_Input_Files_-_Anonymization,96,1,100.0,High Risk,Rule-based,0.0,
+Study_6005,STUDY_22_CPID_Input_Files_-_Anonymization,97,1,100.0,High Risk,Rule-based,0.0,
+Study_5978,STUDY_21_CPID_Input_Files_-_Anonymization,98,1,100.0,High Risk,Rule-based,0.0,
+Study_5973,Site_973,99,1,100.0,High Risk,Rule-based,0.0,
+Study_5970,STUDY_22_CPID_Input_Files_-_Anonymization,100,1,100.0,High Risk,Rule-based,0.0,
+Study_5861,Site_861,101,1,100.0,High Risk,Rule-based,0.0,
+Study_5768,Site_768,102,1,100.0,High Risk,Rule-based,0.0,
+Study_5630,Site_630,103,1,100.0,High Risk,Rule-based,0.0,
+Study_5412,Site_412,104,1,100.0,High Risk,Rule-based,0.0,
+Study_5100,STUDY_2_CPID_Input_Files_-_Anonymization,105,1,100.0,High Risk,Rule-based,8.43,
+Study_6693,Site_693,106,1,100.0,High Risk,Rule-based,0.0,
+Study_6798,Site_798,107,1,100.0,High Risk,Rule-based,0.0,
+Study_6645,Site_645,108,1,100.0,High Risk,Rule-based,0.0,
+Study_6906,Site_906,109,1,100.0,High Risk,Rule-based,1.2,
+Study_6844,STUDY_21_CPID_Input_Files_-_Anonymization,110,1,100.0,High Risk,Rule-based,0.05,
+Study_6661,STUDY_2_CPID_Input_Files_-_Anonymization,111,1,100.0,High Risk,Rule-based,0.0,
+Study_6134,STUDY_23_CPID_Input_Files_-_Anonymization,112,1,100.0,High Risk,Rule-based,0.0,
+Study_7013,Site_013,113,1,100.0,High Risk,Rule-based,0.0,
+Study_6833,Site_833,114,1,100.0,High Risk,Rule-based,0.0,
+Study_7191,Site_191,115,1,100.0,High Risk,Rule-based,0.0,
+Study_1397,Site_397,116,1,100.0,High Risk,Rule-based,0.0,
+Study_1478,Site_478,117,1,100.0,High Risk,Rule-based,0.0,
+Study_1586,STUDY_19_CPID_Input_Files_-_Anonymization,118,1,100.0,High Risk,Rule-based,0.0,
+Study_1457,Site_457,119,1,100.0,High Risk,Rule-based,0.0,
+Study_1403,Site_403,120,1,100.0,High Risk,Rule-based,0.0,
+Study_1817,Site_817,121,1,100.0,High Risk,Rule-based,0.0,
+Study_0809,STUDY_19_CPID_Input_Files_-_Anonymization,122,1,100.0,High Risk,Rule-based,0.0,
+Study_0593,Site_593,123,1,100.0,High Risk,Rule-based,0.0,
+Study_0547,Site_547,124,1,100.0,High Risk,Rule-based,0.0,
+Study_1005,STUDY_22_CPID_Input_Files_-_Anonymization,125,1,100.0,High Risk,Rule-based,0.0,
+Study_0084,STUDY_24_CPID_Input_Files_-_Anonymization,126,1,100.0,High Risk,Rule-based,0.0,
+Study_0342,STUDY_23_CPID_Input_Files_-_Anonymization,127,1,100.0,High Risk,Rule-based,0.24000000000000002,
+Study_0407,STUDY_15_CPID_Input_Files_-_Anonymization,128,1,100.0,High Risk,Rule-based,4.74,
+Study_7926,Site_926,129,1,100.0,High Risk,Rule-based,0.0,
+Study_7806,STUDY_24_CPID_Input_Files_-_Anonymization,130,1,100.0,High Risk,Rule-based,5.26,
+Study_7693,Site_693,131,1,100.0,High Risk,Rule-based,0.06,
+Study_7652,STUDY_23_CPID_Input_Files_-_Anonymization,132,1,100.0,High Risk,Rule-based,0.0,
+Study_7356,Site_356,133,1,100.0,High Risk,Rule-based,0.0,
+Study_7448,Site_448,134,1,100.0,High Risk,Rule-based,0.0,
+Study_7348,Site_348,135,1,100.0,High Risk,Rule-based,0.0,
+Study_7317,Site_317,136,1,100.0,High Risk,Rule-based,0.0,
+Study_7128,Site_128,137,1,100.0,High Risk,Rule-based,0.0,
+Study_7276,Site_276,138,1,100.0,High Risk,Rule-based,1.33,
+Study_7264,Site_264,139,1,100.0,High Risk,Rule-based,0.0,
+Study_7252,Site_252,140,1,100.0,High Risk,Rule-based,0.0,
+Study_7108,Site_108,141,1,100.0,High Risk,Rule-based,0.0,
+Study_7966,STUDY_23_CPID_Input_Files_-_Anonymization,142,1,100.0,High Risk,Rule-based,0.0,
+Study_8362,STUDY_22_CPID_Input_Files_-_Anonymization,143,1,100.0,High Risk,Rule-based,0.0,
+Study_8362,Site_362,144,2,100.0,High Risk,Rule-based,0.0,
+Study_8456,STUDY_21_CPID_Input_Files_-_Anonymization,145,1,100.0,High Risk,Rule-based,0.0,
+Study_8439,Site_439,146,1,100.0,High Risk,Rule-based,0.0,
+Study_8433,Site_433,147,1,100.0,High Risk,Rule-based,1.07,
+Study_8511,Site_511,148,1,100.0,High Risk,Rule-based,0.0,
+Study_8527,STUDY_2_CPID_Input_Files_-_Anonymization,149,1,100.0,High Risk,Rule-based,0.0,
+Study_8567,Site_567,150,1,100.0,High Risk,Rule-based,0.0,
+Study_8795,Site_795,151,1,100.0,High Risk,Rule-based,0.0,
+Study_8457,Site_457,152,1,100.0,High Risk,Rule-based,0.0,
+Study_8927,STUDY_15_CPID_Input_Files_-_Anonymization,153,1,100.0,High Risk,Rule-based,0.0,
+Study_9022,Site_022,154,1,100.0,High Risk,Rule-based,0.0,
+Study_9107,Site_107,155,1,100.0,High Risk,Rule-based,0.0,
+Study_9121,Site_121,156,1,100.0,High Risk,Rule-based,0.0,
+Study_8418,Site_418,157,1,100.0,High Risk,Rule-based,0.0,
+Study_8280,Site_280,158,1,100.0,High Risk,Rule-based,0.0,
+Study_7948,STUDY_19_CPID_Input_Files_-_Anonymization,159,1,100.0,High Risk,Rule-based,0.0,
+Study_8006,STUDY_21_CPID_Input_Files_-_Anonymization,160,1,100.0,High Risk,Rule-based,0.0,
+Study_9389,STUDY_20__CPID_Input_Files_-_Anonymization,161,1,100.0,High Risk,Rule-based,0.0,
+Study_9376,Site_376,162,1,100.0,High Risk,Rule-based,0.0,
+Study_9370,Site_370,163,1,100.0,High Risk,Rule-based,0.0,
+Study_9305,Site_305,164,1,100.0,High Risk,Rule-based,0.0,
+Study_9479,STUDY_24_CPID_Input_Files_-_Anonymization,165,1,100.0,High Risk,Rule-based,0.0,
+Study_9479,STUDY_19_CPID_Input_Files_-_Anonymization,166,2,100.0,High Risk,Rule-based,0.0,
+Study_9690,STUDY_23_CPID_Input_Files_-_Anonymization,167,1,100.0,High Risk,Rule-based,0.14,
+Study_9436,STUDY_23_CPID_Input_Files_-_Anonymization,168,1,100.0,High Risk,Rule-based,0.0,
+Study_9782,STUDY_2_CPID_Input_Files_-_Anonymization,169,1,100.0,High Risk,Rule-based,0.3,
+Study_9841,Site_841,170,1,100.0,High Risk,Rule-based,0.0,
+Study_9860,STUDY_20__CPID_Input_Files_-_Anonymization,171,1,100.0,High Risk,Rule-based,0.0,
+Study_9908,Site_908,172,1,100.0,High Risk,Rule-based,1.44,
+Study_9954,Site_954,173,1,100.0,High Risk,Rule-based,0.0,
+Study_9996,Site_996,174,1,100.0,High Risk,Rule-based,0.0,

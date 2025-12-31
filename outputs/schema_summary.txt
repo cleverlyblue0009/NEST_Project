@@ -1,0 +1,3128 @@
+================================================================================
+CLINICAL TRIAL DATA SCHEMA DISCOVERY REPORT
+================================================================================
+
+Total files discovered: 207
+Generated: 2025-12-31 08:38:43.948047
+
+
+================================================================================
+STUDY: Unknown
+================================================================================
+
+File: STUDY 15_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 15_CPID_Input Files - Anonymization\Compiled EDRR_Standard Metrics_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 15_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 15_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 15_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 15_CPID_Input Files - Anonymization\Inactivated Folders Forms and Records Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 15_CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_IDR_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 15_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 15_CPID_Input Files - Anonymization\Visit Projection tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_Compiled_EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_Global_Missing_Pages_Report_URSV3.0_updated.xlsx
+  Columns (10):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_Inactivated Form Folder Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx
+  Columns (10):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_Visit Projection Tracker_14NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding 
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 19_CPID_Input Files - Anonymization\Study 19_eSAE Dashboard DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 20__CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 20__CPID_Input Files - Anonymization\Compiled_EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 20__CPID_Input Files - Anonymization\GlobalCodingReport MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 20__CPID_Input Files - Anonymization\GlobalCodingReport WHODrug_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 20__CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 20__CPID_Input Files - Anonymization\Inactivated Form Folder Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 20__CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 20__CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: STUDY 20__CPID_Input Files - Anonymization\eSAE Dashboard DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 21_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0 (1) 1_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 21_CPID_Input Files - Anonymization\Compiled_EDRR_2025_Nov_12_12_17_01_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 21_CPID_Input Files - Anonymization\Global Coding Report_Medra 4_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 21_CPID_Input Files - Anonymization\Global Coding Report_WHODD 4_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 21_CPID_Input Files - Anonymization\Inactivated report_updated.xlsx
+  Columns (6):
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 21_CPID_Input Files - Anonymization\Missing LNR_Standard Metrics Input File template V1.0_updated.xlsx (1) 3_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 21_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx (1) (2)_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 21_CPID_Input Files - Anonymization\Study 21_Missing_Pages_Report_06Nov2025_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 21_CPID_Input Files - Anonymization\Study 21_Visit_Projection_Tracker_1_30OCT2025_NIMMASW1.xls (2)_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Actual Date
+    - # Days Outstanding
+
+File: STUDY 22_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0 (2)_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 22_CPID_Input Files - Anonymization\Missing LNR_Standard Metrics Input File template_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_Compiled EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_Global Missing Pages Report_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_Inactivated Page Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_Missing visit_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: STUDY 22_CPID_Input Files - Anonymization\Study 22_eSAE Dashboard_DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 23_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 23_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 23_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_13 Nov 25_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 23_CPID_Input Files - Anonymization\Inactivated Folders, Forms and Records Report_13 Nov 25_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 23_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V1.0_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 23_CPID_Input Files - Anonymization\Study 23 - CPID_EDC Metrics_URSV2.0_13 Nov 25_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 23_CPID_Input Files - Anonymization\Study 23_Compiled_EDRR_2025_Nov_10_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 23_CPID_Input Files - Anonymization\Study 23_Missing_Lab_Name_and_Missing_Ranges_IDR_NICR_TRIPAASB_13NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 23_CPID_Input Files - Anonymization\Study 23_Visit_Projection_Tracker_TRIPAASB_13NOV25_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: STUDY 24_CPID_Input Files - Anonymization\Compiled EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 24_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 24_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 24_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 24_CPID_Input Files - Anonymization\Inactivated Forms and Folders_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPostion
+    - Audit Action
+
+File: STUDY 24_CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges.xls_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 24_CPID_Input Files - Anonymization\Study 24_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 24_CPID_Input Files - Anonymization\Visit Projection Tracker.xls_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: STUDY 24_CPID_Input Files - Anonymization\eSAE dashboard_DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 2_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: STUDY 2_CPID_Input Files - Anonymization\Inactivated_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: STUDY 2_CPID_Input Files - Anonymization\SAE Dashboard_updated.xlsx
+  Columns (8):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_Compiled_EDRR_2025_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_GlobalCodingReport_Medra_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_GlobalCodingReport_WHOdra_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_Global_Missing_Pages_Report_20251107_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_Missing_Lab_Name_and_Missing_Ranges.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name 
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: STUDY 2_CPID_Input Files - Anonymization\Study 2_Visit Projection Tracker.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_CPID_EDC_Metrics_URSV2.0_14-Nov-2025_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_Compiled_EDRR_14-Nov-2025_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_GlobalCodingReport_MedDRA_14-Nov-2025_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_GlobalCodingReport_WHODD-14-Nov-2025_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_Global_Missing_Pages_Report_14-Nov-2025_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_Inactivated Folders, Forms and Records Report_14-Nov-2025_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_Visit Projection Tracker_14NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 10_CPID_Input Files - Anonymization\Study 10_eSAE Dashboard_DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_Compiled_EDRR_2025_Oct_27_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_Global_Missing_Pages_Report_URSV5.0_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - Subject Name
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx
+  Columns (10):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_SAE Dashboard_Standard Metrics_14Nov2025_updated.xlsx
+  Columns (8):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_Visit Projection Tracker_13NOV2025_updated.xlsx
+  Columns (1):
+    - Novartis: Restricted
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 11_CPID_Input Files - Anonymization\Study 11_inactivated reprot_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_CPID_EDC_Metrics_URSV2.0_14NOV2025_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_Compiled_EDRR_14Nov25_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_Global_Missing_Pages_Report_URSV3.0_14Nov25_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_Inactivated Folders, Forms and Records Report_14Nov25_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_MedDRA_14Nov25_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_SAE Dashboard_Standard Metrics Input file_14Nov25_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_Visit Projection Tracker_14NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 13_CPID_Input Files - Anonymization\Study 13_WHODD_14Nov25_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 14_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 14_CPID_Input Files - Anonymization\GlobalCodingReport_MedRA CodingReport_Nov2025_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 14_CPID_Input Files - Anonymization\GlobalCodingReport_WHODrug Coding Report_Nov 2025_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 14_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 14_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 14_CPID_Input Files - Anonymization\Study 14_Compiled_EDRR_2025_Nov_13_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 14_CPID_Input Files - Anonymization\Study 14_Inactivated Folders, Forms and Report_13NOV2025_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 14_CPID_Input Files - Anonymization\Study 14_Missing_Lab_Name_and_Missing_Ranges_IDR_NICR_13NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 14_CPID_Input Files - Anonymization\Study 14_Visit Projection Tracker_13NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 16_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0 (3)_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 16_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 16_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 16_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (17)_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 16_CPID_Input Files - Anonymization\Inactivated Folders, Forms and Records Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPostion
+    - Audit Action
+
+File: Study 16_CPID_Input Files - Anonymization\Study 16_Compiled_EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 16_CPID_Input Files - Anonymization\Study 16_Missing_Lab_Name_and_Missing_Ranges_updated.xlsx
+  Columns (10):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 16_CPID_Input Files - Anonymization\Study 16_Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding (TODAY - PROJECTED
+DATE)
+
+File: Study 16_CPID_Input Files - Anonymization\eSAE_updated_30-Oct-2025_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 17_CPID_Input Files - Anonymization\CPID_EDC Metrics_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 17_CPID_Input Files - Anonymization\Compiled EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 17_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 17_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 17_CPID_Input Files - Anonymization\Inactivated Form Folder Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 17_CPID_Input Files - Anonymization\Missing Lab & Range Report_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 17_CPID_Input Files - Anonymization\Missing Page Report_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 17_CPID_Input Files - Anonymization\SAE Dashboard_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 17_CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_Compiled EDRR_Standard Metrics Input file template_V1.0_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_Global_Missing_Pages_Report_URSV3.0 (18)_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_Inactivated page report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_Missing LNR_Standard Metrics Input File template V2.0_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_SAE Dashboard_Standard Metrics Input file template V2.0_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 18_CPID_Input Files - Anonymization\Study 18_Visit Projection tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_CPID_EDC_Metrics_URSV2.0_14 NOV 2025_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_Compiled_EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_Inactivated Forms, Folders and  Records Report_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_Missing_Lab_Name_and_Missing_Ranges_14NOV2025_updated.xlsx
+  Columns (10):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_Missing_Pages_Report_URSV3.0_14 NOV 2025_updated.xlsx
+  Columns (9):
+    - Form Details
+    - Country
+    - Site Number
+    - Subject Name
+    - Visit Name
+    - Page Name
+    - Visit date
+    - Subject Status
+    - # of Days Missing
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_Visit Projection Tracker_14NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 1_CPID_Input Files - Anonymization\Study 1_eSAE Dashboard_Standard DM_Safety Report_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 25_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 25_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA 6_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 25_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD 6_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 25_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_updated.xlsx
+  Columns (11):
+    - Study
+    - Form Details
+    - Country
+    - Site Number
+    - Subject Name
+    - Visit
+    - Page Name
+    - Visit Date
+    - Subject Status
+    - Screening Visit Date
+    - # of Days Missing
+
+File: Study 25_CPID_Input Files - Anonymization\Inactivated forms and folder_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 25_CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx
+  Columns (12):
+    - Study
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 25_CPID_Input Files - Anonymization\Study 25_Compiled_EDRR_2025_Sep_24_10_52_25_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 25_CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx
+  Columns (8):
+    - Study
+    - Country
+    - Site
+    - Subject Name
+    - Visit
+    - Projected Date
+    - Visit date
+    - # Days Outstanding
+
+File: Study 25_CPID_Input Files - Anonymization\eSAE dashboard_DM_Safety 1_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 4_CPID_Input Files - Anonymization\CPID_EDC Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 4_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 4_CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 4_CPID_Input Files - Anonymization\Inactivated report for metrics_20Oct 2025_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPostion
+    - Audit Action
+
+File: Study 4_CPID_Input Files - Anonymization\Study 4_Compiled_EDRR_2025_Nov_14_13_32_27_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 4_CPID_Input Files - Anonymization\Study 4_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 4_CPID_Input Files - Anonymization\Study 4_Missing_page_report_13Nov2025_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 4_CPID_Input Files - Anonymization\Study 4_Visit Projection Tracker_10NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 4_CPID_Input Files - Anonymization\eSAE Dashboard DM_Safety_08Oct2025_updated.xlsx
+  Columns (8):
+    - Discrepancy ID
+    - Study ID
+    - Site
+    - Patient ID
+    - Case Status
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_Compiled EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_Global Missing Pages_updated.xlsx
+  Columns (10):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Form 1 Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - No. #Days Page Missing
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_Inactivated Forms and Folders_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPostion
+    - Audit Action
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_Missing_Lab_Name_And_Missing_Ranges_updated.xlsx
+  Columns (10):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 5_CPID_Input Files - Anonymization\Study 5_eSAE_Dashboard_DM_Safety_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 6 _CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 6 _CPID_Input Files - Anonymization\Compiled_EDRR_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 6 _CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 6 _CPID_Input Files - Anonymization\GlobalCodingReport_WHODD_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 6 _CPID_Input Files - Anonymization\Global_Missing_Pages_Report_updated.xlsx
+  Columns (10):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Form 1 Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - No. #Days Page Missing
+
+File: Study 6 _CPID_Input Files - Anonymization\Inactivated forms and folder_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 6 _CPID_Input Files - Anonymization\Missing_Lab_Name_and_Missing_Ranges_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 6 _CPID_Input Files - Anonymization\Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding (TODAY - PROJECTED
+DATE)
+
+File: Study 6 _CPID_Input Files - Anonymization\eSAE Dashboard DM_Safety 1_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_CPID_EDC_Metrics_URSV2.0_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_Compiled EDRR_Standard Metrics_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_GlobalCodingReport_medDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_GlobalCodingReport_whoDrug_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_Global_Missing_Pages_Report_13Nov2025_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_Inactivated pages_13Nov2025_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_Missing_Lab_Name_and_Missing_Ranges_IDR_14NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_Visit Projection Tracker_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding (TODAY - PROJECTED
+DATE)
+
+File: Study 7_CPID_Input Files - Anonymization\Study 7_eSAE Dashboard DM_Safety_13NOV2025_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 8_CPID_Input Files - Anonymization\SAE Dashboard_Standard Metrics_13Nov2025_updated.xlsx
+  Columns (9):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_CPID_EDC_Metrics_URSV2.0 _13Nov2025_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_Compiled_EDRR_2025_Nov_13_20_00_17_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_GlobalCodingReport_MedDRA_13Nov2025_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_GlobalCodingReport_WHODD_13Nov2025_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_Global_Missing_Pages_Report_URSV3.0_13Nov2025_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_Inactivated Folders, Forms and Records Report_13Nov2025_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form
+    - Data on Form/
+Record    
+    - RecordPostion
+    - Audit Action
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_Missing_Lab_Name_and_Missing_Ranges_IDR_13NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 8_CPID_Input Files - Anonymization\Study 8_Visit Projection Tracker_13NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding
+
+File: Study 9_CPID_Input Files - Anonymization\CPID_EDC_Metrics_URSV2.0 (1)_updated.xlsx
+  Columns (39):
+    - Project Name
+    - Region
+    - Country
+    - Site ID
+    - Subject ID
+    - Latest Visit (SV) (Source: Rave EDC: BO4)
+    - Subject Status (Source: PRIMARY Form)
+    - Input files
+    - Unnamed: 8
+    - Unnamed: 9
+    - Unnamed: 10
+    - Unnamed: 11
+    - Unnamed: 12
+    - Unnamed: 13
+    - Unnamed: 14
+    - Unnamed: 15
+    - CPMD
+    - Unnamed: 17
+    - Unnamed: 18
+    - Unnamed: 19
+    - Unnamed: 20
+    - Unnamed: 21
+    - Unnamed: 22
+    - Unnamed: 23
+    - Unnamed: 24
+    - Unnamed: 25
+    - Unnamed: 26
+    - Unnamed: 27
+    - Unnamed: 28
+    - Unnamed: 29
+    - Unnamed: 30
+    - Unnamed: 31
+    - Unnamed: 32
+    - Unnamed: 33
+    - Unnamed: 34
+    - Unnamed: 35
+    - Unnamed: 36
+    - Unnamed: 37
+    - SSM
+
+File: Study 9_CPID_Input Files - Anonymization\GlobalCodingReport _WHODrug_updated.xlsx
+  Columns (10):
+    - WHODrug Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 9_CPID_Input Files - Anonymization\GlobalCodingReport_MedDRA_updated.xlsx
+  Columns (10):
+    - MedDRA Coding Report
+    - Study
+    - Dictionary
+    - Dictionary Version number
+    - Subject
+    - Form OID
+    - Logline
+    - Field OID
+    - Coding Status
+    - Require Coding
+
+File: Study 9_CPID_Input Files - Anonymization\Global_Missing_Pages_Report_URSV3.0 (3)_updated.xlsx
+  Columns (11):
+    - Study Name
+    - SiteGroupName(CountryName)
+    - SiteNumber
+    - SubjectName
+    - Overall Subject Status
+    - Visit Level Subject Status
+    - FolderName
+    - Visit date
+    - Form Type (Summary or Visit)
+    - FormName
+    - No. #Days Page Missing
+
+File: Study 9_CPID_Input Files - Anonymization\Inactivated pages_updated.xlsx
+  Columns (8):
+    - Country
+    - Study Site Number
+    - Subject
+    - Folder
+    - Form 
+    - Data on Form/
+Record    
+    - RecordPosition
+    - Audit Action
+
+File: Study 9_CPID_Input Files - Anonymization\Study 9_Compiled_EDRR_18JUL2025_updated.xlsx
+  Columns (4):
+    - Study
+    - Subject
+    - Total Open issue Count per subject
+    - .
+
+File: Study 9_CPID_Input Files - Anonymization\Study 9_Missing_Lab_Name_and_Missing_Ranges_IDR_12NOV2025_updated.xlsx
+  Columns (11):
+    - Country
+    - Site number
+    - Subject
+    - Visit
+    - Form Name
+    - Lab category
+    - Lab Date
+    - Test Name
+    - Test description
+    - Issue
+    - Comments
+
+File: Study 9_CPID_Input Files - Anonymization\Study 9_Visit Projection Tracker_12NOV2025_updated.xlsx
+  Columns (6):
+    - Country
+    - Site
+    - Subject
+    - Visit
+    - Projected Date
+    - # Days Outstanding (TODAY - PROJECTED
+DATE)
+
+File: Study 9_CPID_Input Files - Anonymization\Study 9_eSAE Dashboard_DM_Safety_updated.xlsx
+  Columns (11):
+    - Discrepancy ID
+    - Study ID
+    - Country
+    - Site
+    - Patient ID
+    - Form Name
+    - Record Position
+    - Discrepancy Created Timestamp in Dashboard
+    - Review Status
+    - Action Status
+    - Report Update Required
