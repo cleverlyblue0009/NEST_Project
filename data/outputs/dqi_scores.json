@@ -1,0 +1,393 @@
+{
+  "Study 10_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.85,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 1.01
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 6,
+      "enrollment_count": 6,
+      "timestamp": "2026-01-01T12:07:51.450906"
+    }
+  },
+  "Study 11_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 82.5,
+      "risk_level": "LOW RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 25
+      },
+      "primary_driver": "open_queries_pct",
+      "site_count": 14,
+      "enrollment_count": 14,
+      "timestamp": "2026-01-01T12:07:51.470758"
+    }
+  },
+  "Study 13_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 68.69,
+      "risk_level": "HIGH RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.39
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:51.524528"
+    }
+  },
+  "Study 14_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 61.25,
+      "risk_level": "HIGH RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 50.0
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:51.564372"
+    }
+  },
+  "STUDY 15_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 63.75,
+      "risk_level": "HIGH RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 33.33
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:51.630666"
+    }
+  },
+  "Study 16_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.97,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.21
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 327,
+      "enrollment_count": 327,
+      "timestamp": "2026-01-01T12:07:52.246765"
+    }
+  },
+  "Study 17_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.93,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.46
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 8,
+      "enrollment_count": 8,
+      "timestamp": "2026-01-01T12:07:52.373426"
+    }
+  },
+  "Study 18_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 79.7,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 2.01
+      },
+      "primary_driver": "missing_visits_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:52.420871"
+    }
+  },
+  "STUDY 19_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.54,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 3.09
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 15,
+      "enrollment_count": 15,
+      "timestamp": "2026-01-01T12:07:52.483118"
+    }
+  },
+  "Study 1_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.94,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.4
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 15,
+      "enrollment_count": 15,
+      "timestamp": "2026-01-01T12:07:52.878518"
+    }
+  },
+  "STUDY 20__CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 67.02,
+      "risk_level": "HIGH RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 11.54
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:52.936490"
+    }
+  },
+  "STUDY 21_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 82.5,
+      "risk_level": "LOW RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 25
+      },
+      "primary_driver": "open_queries_pct",
+      "site_count": 354,
+      "enrollment_count": 354,
+      "timestamp": "2026-01-01T12:07:52.990799"
+    }
+  },
+  "STUDY 22_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 71.25,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 100.0
+      },
+      "primary_driver": "uncoded_terms_pct",
+      "site_count": 727,
+      "enrollment_count": 727,
+      "timestamp": "2026-01-01T12:07:53.167170"
+    }
+  },
+  "STUDY 23_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 75.0,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.02
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 5,
+      "enrollment_count": 5,
+      "timestamp": "2026-01-01T12:07:53.828174"
+    }
+  },
+  "STUDY 24_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.23,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 5.13
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 78,
+      "enrollment_count": 78,
+      "timestamp": "2026-01-01T12:07:54.075639"
+    }
+  },
+  "Study 25_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 73.75,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 0.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.0
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:55.221589"
+    }
+  },
+  "STUDY 2_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 82.5,
+      "risk_level": "LOW RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 25
+      },
+      "primary_driver": "open_queries_pct",
+      "site_count": 2,
+      "enrollment_count": 2,
+      "timestamp": "2026-01-01T12:07:55.237498"
+    }
+  },
+  "Study 4_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 86.25,
+      "risk_level": "LOW RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 0.01
+      },
+      "primary_driver": "open_queries_pct",
+      "site_count": 1494,
+      "enrollment_count": 1494,
+      "timestamp": "2026-01-01T12:07:56.637494"
+    }
+  },
+  "Study 5_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.98,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.1
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 21,
+      "enrollment_count": 21,
+      "timestamp": "2026-01-01T12:07:57.028544"
+    }
+  },
+  "Study 6 _CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.83,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 1.15
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 12,
+      "enrollment_count": 12,
+      "timestamp": "2026-01-01T12:07:57.107146"
+    }
+  },
+  "Study 7_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 78.34,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 11.09
+      },
+      "primary_driver": "missing_visits_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:57.166170"
+    }
+  },
+  "Study 8_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 74.97,
+      "risk_level": "MEDIUM RISK",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.2
+      },
+      "primary_driver": "unverified_forms_pct",
+      "site_count": 24,
+      "enrollment_count": 24,
+      "timestamp": "2026-01-01T12:07:57.579065"
+    }
+  },
+  "Study 9_CPID_Input Files - Anonymization": {
+    "study_level": {
+      "dqi_score": 80.0,
+      "risk_level": "LOW RISK",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 0.0
+      },
+      "primary_driver": "missing_visits_pct",
+      "site_count": 0,
+      "enrollment_count": 0,
+      "timestamp": "2026-01-01T12:07:57.632325"
+    }
+  }
+}

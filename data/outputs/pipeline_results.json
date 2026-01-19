@@ -1,0 +1,543 @@
+{
+  "dqi_results": {
+    "Study 10_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.85,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 1.01
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 6,
+        "enrollment_count": 6,
+        "timestamp": "2026-01-01T12:07:51.450906"
+      }
+    },
+    "Study 11_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 82.5,
+        "risk_level": "LOW RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 25
+        },
+        "primary_driver": "open_queries_pct",
+        "site_count": 14,
+        "enrollment_count": 14,
+        "timestamp": "2026-01-01T12:07:51.470758"
+      }
+    },
+    "Study 13_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 68.69,
+        "risk_level": "HIGH RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.39
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:51.524528"
+      }
+    },
+    "Study 14_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 61.25,
+        "risk_level": "HIGH RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 50.0
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:51.564372"
+      }
+    },
+    "STUDY 15_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 63.75,
+        "risk_level": "HIGH RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 33.33
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:51.630666"
+      }
+    },
+    "Study 16_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.97,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.21
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 327,
+        "enrollment_count": 327,
+        "timestamp": "2026-01-01T12:07:52.246765"
+      }
+    },
+    "Study 17_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.93,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.46
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 8,
+        "enrollment_count": 8,
+        "timestamp": "2026-01-01T12:07:52.373426"
+      }
+    },
+    "Study 18_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 79.7,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 2.01
+        },
+        "primary_driver": "missing_visits_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:52.420871"
+      }
+    },
+    "STUDY 19_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.54,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 3.09
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 15,
+        "enrollment_count": 15,
+        "timestamp": "2026-01-01T12:07:52.483118"
+      }
+    },
+    "Study 1_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.94,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.4
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 15,
+        "enrollment_count": 15,
+        "timestamp": "2026-01-01T12:07:52.878518"
+      }
+    },
+    "STUDY 20__CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 67.02,
+        "risk_level": "HIGH RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 11.54
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:52.936490"
+      }
+    },
+    "STUDY 21_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 82.5,
+        "risk_level": "LOW RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 25
+        },
+        "primary_driver": "open_queries_pct",
+        "site_count": 354,
+        "enrollment_count": 354,
+        "timestamp": "2026-01-01T12:07:52.990799"
+      }
+    },
+    "STUDY 22_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 71.25,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 100.0
+        },
+        "primary_driver": "uncoded_terms_pct",
+        "site_count": 727,
+        "enrollment_count": 727,
+        "timestamp": "2026-01-01T12:07:53.167170"
+      }
+    },
+    "STUDY 23_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 75.0,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.02
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 5,
+        "enrollment_count": 5,
+        "timestamp": "2026-01-01T12:07:53.828174"
+      }
+    },
+    "STUDY 24_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.23,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 5.13
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 78,
+        "enrollment_count": 78,
+        "timestamp": "2026-01-01T12:07:54.075639"
+      }
+    },
+    "Study 25_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 73.75,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 0.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.0
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:55.221589"
+      }
+    },
+    "STUDY 2_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 82.5,
+        "risk_level": "LOW RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 25
+        },
+        "primary_driver": "open_queries_pct",
+        "site_count": 2,
+        "enrollment_count": 2,
+        "timestamp": "2026-01-01T12:07:55.237498"
+      }
+    },
+    "Study 4_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 86.25,
+        "risk_level": "LOW RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 0.01
+        },
+        "primary_driver": "open_queries_pct",
+        "site_count": 1494,
+        "enrollment_count": 1494,
+        "timestamp": "2026-01-01T12:07:56.637494"
+      }
+    },
+    "Study 5_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.98,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.1
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 21,
+        "enrollment_count": 21,
+        "timestamp": "2026-01-01T12:07:57.028544"
+      }
+    },
+    "Study 6 _CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.83,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 1.15
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 12,
+        "enrollment_count": 12,
+        "timestamp": "2026-01-01T12:07:57.107146"
+      }
+    },
+    "Study 7_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 78.34,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 11.09
+        },
+        "primary_driver": "missing_visits_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:57.166170"
+      }
+    },
+    "Study 8_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 74.97,
+        "risk_level": "MEDIUM RISK",
+        "metrics": {
+          "missing_visits_pct": 0.0,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 100.0,
+          "uncoded_terms_pct": 0.2
+        },
+        "primary_driver": "unverified_forms_pct",
+        "site_count": 24,
+        "enrollment_count": 24,
+        "timestamp": "2026-01-01T12:07:57.579065"
+      }
+    },
+    "Study 9_CPID_Input Files - Anonymization": {
+      "study_level": {
+        "dqi_score": 80.0,
+        "risk_level": "LOW RISK",
+        "metrics": {
+          "missing_visits_pct": 25,
+          "missing_pages_pct": 20.0,
+          "open_queries_pct": 25,
+          "unverified_forms_pct": 25,
+          "uncoded_terms_pct": 0.0
+        },
+        "primary_driver": "missing_visits_pct",
+        "site_count": 0,
+        "enrollment_count": 0,
+        "timestamp": "2026-01-01T12:07:57.632325"
+      }
+    }
+  },
+  "insights": {
+    "Study 10_CPID_Input Files - Anonymization": {
+      "dqi_score": 74.85,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 10_CPID_Input Files is assessed as medium, primarily driven by the alarming 100% rate of unverified forms, which poses a significant barrier to data integrity. Immediate action is recommended to implement a rigorous verification process for all forms to enhance data reliability and reduce the risk of inaccuracies in the trial outcomes. Additionally, addressing the 25% of open queries should be prioritized to further improve data quality.",
+      "risk_alert": "\u26a0\ufe0f The current Data Quality Index (DQI) for Study 10_CPID_Input Files - Anonymization remains at 74.85, indicating a declining trend. While the unverified forms percentage is a concern, the situation does not warrant an urgent alert at this time, as the interim analysis is still 30 days away. Please continue to monitor the situation closely.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 1.01
+      }
+    },
+    "Study 11_CPID_Input Files - Anonymization": {
+      "dqi_score": 82.5,
+      "risk_level": "LOW RISK",
+      "primary_driver": "open_queries_pct",
+      "executive_summary": "The overall data quality risk for Study 11_CPID_Input Files is classified as low, with a Data Quality Index of 82.5/100. The primary blocker impacting data integrity is the high percentage of open queries at 25%, which necessitates immediate resolution to enhance data completeness and reliability. It is recommended that the study team prioritize addressing these open queries to improve overall data quality and facilitate timely analysis.",
+      "risk_alert": "\u26a0\ufe0f The current data quality index (DQI) for Study 11_CPID_Input Files - Anonymization remains stable at 82.5, with no significant changes noted. However, the percentage of open queries is a critical issue that requires monitoring as we approach the interim analysis in 30 days. Please ensure that all queries are addressed promptly to maintain data integrity.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 25
+      }
+    },
+    "Study 13_CPID_Input Files - Anonymization": {
+      "dqi_score": 68.69,
+      "risk_level": "HIGH RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 13_CPID_Input Files is classified as high, primarily driven by the alarming rate of unverified forms, which stands at 100%. To mitigate this risk and enhance data integrity, it is imperative to prioritize the verification of all forms immediately, alongside addressing the significant percentages of missing visits and open queries. Implementing a targeted action plan to resolve these issues will be crucial for advancing the study's data quality.",
+      "risk_alert": "\ud83d\udea8 URGENT: The current DQI of 68.69 for Study 13_CPID_Input Files - Anonymization is declining, and the unverified forms percentage poses a significant risk. With only 14 days remaining until the interim analysis, immediate attention is required to address these critical issues.",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.39
+      }
+    },
+    "Study 14_CPID_Input Files - Anonymization": {
+      "dqi_score": 61.25,
+      "risk_level": "HIGH RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 14_CPID_Input Files is classified as high, primarily driven by the alarming 100% rate of unverified forms, which significantly undermines data integrity. To mitigate this risk, it is imperative to prioritize the verification of all forms and address the outstanding open queries, as these actions are crucial for enhancing the overall quality and reliability of the trial data. Immediate engagement with data management teams to implement a robust verification process is recommended to rectify these critical issues.",
+      "risk_alert": "\ud83d\udea8 Urgent alert: The current DQI of 61.25 indicates a declining trend, and with only 14 days to the interim analysis, the unverified forms percentage poses a high risk to the study's integrity. Immediate action is required to address this critical issue before the analysis.",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 50.0
+      }
+    },
+    "STUDY 15_CPID_Input Files - Anonymization": {
+      "dqi_score": 63.75,
+      "risk_level": "HIGH RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 15_CPID_Input Files is classified as high, primarily driven by the alarming 100% rate of unverified forms, which poses a significant barrier to data integrity. Immediate action is recommended to address this issue by implementing a comprehensive review and verification process for all forms, alongside targeted efforts to reduce the 25% missing visits and 25% open queries to enhance overall data quality.",
+      "risk_alert": "\ud83d\udea8 Immediate attention required: The current DQI for STUDY 15_CPID_Input Files - Anonymization remains at 63.75, with a declining trend and critical issues related to unverified forms percentage. With only 14 days until the interim analysis, this poses a significant risk to the integrity of the study data. Immediate action is necessary to address these issues.",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 33.33
+      }
+    },
+    "Study 16_CPID_Input Files - Anonymization": {
+      "dqi_score": 74.97,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 16_CPID_Input Files is assessed as medium, primarily driven by the alarming rate of unverified forms at 100%. To mitigate this risk, it is imperative to prioritize the verification of all forms to enhance data integrity and reduce the potential for inaccuracies in the trial outcomes. Immediate action should be taken to implement a robust verification process and address the open queries, ensuring timely resolution and compliance with regulatory standards.",
+      "risk_alert": "\u26a0\ufe0f The current DQI for Study 16_CPID_Input Files - Anonymization remains at 74.97, indicating a declining trend. While the unverified forms percentage is a critical issue, the risk level does not warrant an urgent alert at this time, as the interim analysis is still 30 days away. Please continue to monitor the situation closely.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.21
+      }
+    },
+    "Study 17_CPID_Input Files - Anonymization": {
+      "dqi_score": 74.93,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 17_CPID_Input Files is classified as medium, primarily driven by the alarming rate of unverified forms at 100%. To enhance data integrity and facilitate timely analysis, it is imperative to prioritize the verification of all forms immediately, addressing the open queries and ensuring comprehensive data capture across all sites.",
+      "risk_alert": "\ud83d\udea8 Urgent alert: The current DQI of 74.93 is declining, and the unverified forms percentage indicates a critical issue. With only 30 days remaining until the interim analysis, immediate action is required to address the risk and ensure data integrity.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.46
+      }
+    },
+    "Study 18_CPID_Input Files - Anonymization": {
+      "dqi_score": 79.7,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "missing_visits_pct",
+      "executive_summary": "The overall data quality risk for Study 18_CPID_Input Files is classified as medium, primarily driven by a concerning 25% rate of missing visits. To enhance data integrity and facilitate timely analysis, it is imperative to prioritize the resolution of missing visit data and implement a robust tracking system for data completeness. Immediate action should be taken to address these gaps, including targeted follow-ups with sites and a review of data collection processes.",
+      "risk_alert": "\u26a0\ufe0f The current Data Quality Index (DQI) for Study 18_CPID_Input Files - Anonymization remains stable at 79.7, indicating no immediate concerns. However, please monitor the missing visits percentage closely as it could impact the overall data integrity as we approach the interim analysis in 30 days.",
+      "metrics": {
+        "missing_visits_pct": 25,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 25,
+        "uncoded_terms_pct": 2.01
+      }
+    },
+    "STUDY 19_CPID_Input Files - Anonymization": {
+      "dqi_score": 74.54,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for STUDY 19_CPID is classified as medium, primarily driven by the alarming rate of unverified forms at 100%. To mitigate this risk and enhance data integrity, it is imperative to prioritize the verification of all forms immediately, alongside addressing the 25% of open queries to ensure comprehensive data accuracy and compliance.",
+      "risk_alert": "\u26a0\ufe0f The current Data Quality Index (DQI) for STUDY 19_CPID_Input Files - Anonymization remains at 74.54, indicating a declining trend. While the unverified forms percentage is a critical issue, the risk level is not deemed high at this time, and there are still 30 days until the interim analysis.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 3.09
+      }
+    },
+    "Study 1_CPID_Input Files - Anonymization": {
+      "dqi_score": 74.94,
+      "risk_level": "MEDIUM RISK",
+      "primary_driver": "unverified_forms_pct",
+      "executive_summary": "The overall data quality risk for Study 1 is assessed as medium, primarily driven by the alarming rate of unverified forms, which stands at 100%. To mitigate this risk and enhance data integrity, it is imperative to prioritize the verification of all forms immediately, alongside addressing the 25% of open queries to ensure comprehensive data accuracy and completeness.",
+      "risk_alert": "\u26a0\ufe0f The current Data Quality Index (DQI) for Study 1_CPID_Input Files - Anonymization remains at 74.94, indicating a declining trend. While the unverified forms percentage is a concern, the interim analysis is scheduled in 30 days, which does not warrant an urgent alert at this time. Please monitor the situation closely.",
+      "metrics": {
+        "missing_visits_pct": 0.0,
+        "missing_pages_pct": 20.0,
+        "open_queries_pct": 25,
+        "unverified_forms_pct": 100.0,
+        "uncoded_terms_pct": 0.4
+      }
+    }
+  },
+  "statistics": {
+    "avg_dqi": 75.03217391304348,
+    "high_risk": 4,
+    "medium_risk": 14,
+    "low_risk": 5
+  }
+}

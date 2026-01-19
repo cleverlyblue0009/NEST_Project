@@ -1,0 +1,95 @@
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                        NEST 2.0 EXECUTIVE SUMMARY                          ║
+║              Clinical Trial Data Quality Intelligence Report               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Generated: 2026-01-01 12:13:54
+Analysis: 25 Clinical Studies, Data Integration from Multiple EDC Sources
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. EXECUTIVE OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEST 2.0 is an AI-powered data intelligence platform that unifies clinical trial 
+data from multiple sources and generates actionable insights in real-time.
+
+KEY INNOVATION: The Data Quality Index (DQI) — a unified 0–100 metric that 
+aggregates 5 critical quality dimensions into one score.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. KEY FINDINGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Average DQI Across All Studies: 75.0/100
+
+Risk Distribution:
+• HIGH RISK (DQI < 70):    4
+• MEDIUM RISK (70–80):     14
+• LOW RISK (> 80):         5
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. TOP 5 HIGHEST-RISK STUDIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Study 10_CPID_Input Files - Anonymization
+   DQI Score: 74.85/100 (MEDIUM RISK)
+   Primary Driver: unverified_forms_pct
+
+   Executive Summary:
+   The overall data quality risk for Study 10_CPID_Input Files is assessed as medium, primarily driven by the alarming 100% rate of unverified forms, which poses a significant barrier to data integrity. Immediate action is recommended to implement a rigorous verification process for all forms to enhance data reliability and reduce the risk of inaccuracies in the trial outcomes. Additionally, addressing the 25% of open queries should be prioritized to further improve data quality.
+
+   Recommended Action:
+   ⚠️ The current Data Quality Index (DQI) for Study 10_CPID_Input Files - Anonymization remains at 74.85, indicating a declining trend. While the unverified forms percentage is a concern, the situation does not warrant an urgent alert at this time, as the interim analysis is still 30 days away. Please continue to monitor the situation closely.
+
+2. Study 11_CPID_Input Files - Anonymization
+   DQI Score: 82.5/100 (LOW RISK)
+   Primary Driver: open_queries_pct
+
+   Executive Summary:
+   The overall data quality risk for Study 11_CPID_Input Files is classified as low, with a Data Quality Index of 82.5/100. The primary blocker impacting data integrity is the high percentage of open queries at 25%, which necessitates immediate resolution to enhance data completeness and reliability. It is recommended that the study team prioritize addressing these open queries to improve overall data quality and facilitate timely analysis.
+
+   Recommended Action:
+   ⚠️ The current data quality index (DQI) for Study 11_CPID_Input Files - Anonymization remains stable at 82.5, with no significant changes noted. However, the percentage of open queries is a critical issue that requires monitoring as we approach the interim analysis in 30 days. Please ensure that all queries are addressed promptly to maintain data integrity.
+
+3. Study 13_CPID_Input Files - Anonymization
+   DQI Score: 68.69/100 (HIGH RISK)
+   Primary Driver: unverified_forms_pct
+
+   Executive Summary:
+   The overall data quality risk for Study 13_CPID_Input Files is classified as high, primarily driven by the alarming rate of unverified forms, which stands at 100%. To mitigate this risk and enhance data integrity, it is imperative to prioritize the verification of all forms immediately, alongside addressing the significant percentages of missing visits and open queries. Implementing a targeted action plan to resolve these issues will be crucial for advancing the study's data quality.
+
+   Recommended Action:
+   🚨 URGENT: The current DQI of 68.69 for Study 13_CPID_Input Files - Anonymization is declining, and the unverified forms percentage poses a significant risk. With only 14 days remaining until the interim analysis, immediate attention is required to address these critical issues.
+
+4. Study 14_CPID_Input Files - Anonymization
+   DQI Score: 61.25/100 (HIGH RISK)
+   Primary Driver: unverified_forms_pct
+
+   Executive Summary:
+   The overall data quality risk for Study 14_CPID_Input Files is classified as high, primarily driven by the alarming 100% rate of unverified forms, which significantly undermines data integrity. To mitigate this risk, it is imperative to prioritize the verification of all forms and address the outstanding open queries, as these actions are crucial for enhancing the overall quality and reliability of the trial data. Immediate engagement with data management teams to implement a robust verification process is recommended to rectify these critical issues.
+
+   Recommended Action:
+   🚨 Urgent alert: The current DQI of 61.25 indicates a declining trend, and with only 14 days to the interim analysis, the unverified forms percentage poses a high risk to the study's integrity. Immediate action is required to address this critical issue before the analysis.
+
+5. STUDY 15_CPID_Input Files - Anonymization
+   DQI Score: 63.75/100 (HIGH RISK)
+   Primary Driver: unverified_forms_pct
+
+   Executive Summary:
+   The overall data quality risk for Study 15_CPID_Input Files is classified as high, primarily driven by the alarming 100% rate of unverified forms, which poses a significant barrier to data integrity. Immediate action is recommended to address this issue by implementing a comprehensive review and verification process for all forms, alongside targeted efforts to reduce the 25% missing visits and 25% open queries to enhance overall data quality.
+
+   Recommended Action:
+   🚨 Immediate attention required: The current DQI for STUDY 15_CPID_Input Files - Anonymization remains at 63.75, with a declining trend and critical issues related to unverified forms percentage. With only 14 days until the interim analysis, this poses a significant risk to the integrity of the study data. Immediate action is necessary to address these issues.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. CONCLUSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEST 2.0 demonstrates how real-world clinical data can be transformed into 
+clear, actionable intelligence. By combining a unified quality metric with 
+AI-generated insights, trial teams can identify risk in hours instead of days.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+END OF REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
